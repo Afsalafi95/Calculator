@@ -1,0 +1,30 @@
+.main-body{
+    display: flex;
+    justify-content: center;
+}
+.calcultor{
+    height: 600px;
+    width: 30%;
+    background-color: rgb(51, 45, 45);
+    border: solid 5px;
+    border-radius: 44px;
+}
+#screen{
+    width: 80%;
+    height: 70px;
+    margin-left: 40px;
+    border: solid 2px;
+    margin-top: 42px;
+    pointer-events: none;
+    border-radius:10px ;
+}
+.btn{
+    background-color:rgb(51, 45, 45) ;
+    height: 56px;
+    width: 17%;
+    margin-left: 25px;
+    margin-top: 39px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+}
